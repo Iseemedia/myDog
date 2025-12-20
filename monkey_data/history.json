@@ -415,6 +415,22 @@
         "special": "energy"
       },
       "story": "\ud83c\udf89 Your monkey was born!"
+    },
+    {
+      "timestamp": "2025-12-20T14:04:13.662239",
+      "dna_hash": "37007e6c640adc0c",
+      "generation": 1,
+      "mutation_count": 0,
+      "rarity_score": 25.0,
+      "traits": {
+        "body_color": "silver",
+        "face_expression": "winking",
+        "accessory": "simple_hat",
+        "pattern": "spots",
+        "background": "underwater",
+        "special": "none"
+      },
+      "story": "\ud83c\udf89 Your monkey was born!"
     }
   ]
 }
