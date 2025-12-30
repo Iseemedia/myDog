@@ -1,8 +1,8 @@
 {
   "generation": 1,
   "parent_id": null,
-  "dna_hash": "14f31ce91cb8e25a",
-  "mutation_count": 4,
+  "dna_hash": "5b44012a14da2d3c",
+  "mutation_count": 5,
   "birth_timestamp": 267032,
   "traits": {
     "body_color": {
@@ -16,9 +16,9 @@
       "gene_sequence": "399185f3"
     },
     "accessory": {
-      "value": "headphones",
+      "value": "crown",
       "rarity": "uncommon",
-      "gene_sequence": "c1193660"
+      "gene_sequence": "fa89ebac"
     },
     "pattern": {
       "value": "stripes",
