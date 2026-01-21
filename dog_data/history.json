@@ -991,6 +991,22 @@
         "special": "energy"
       },
       "story": "Your dog evolved! Changes: special: aura \u2192 energy"
+    },
+    {
+      "timestamp": "2026-01-21T00:55:38.034876",
+      "dna_hash": "64c12f8b98aa1843",
+      "generation": 1,
+      "mutation_count": 15,
+      "rarity_score": 20.0,
+      "traits": {
+        "body_color": "tan",
+        "face_expression": "mischievous",
+        "accessory": "monocle",
+        "pattern": "solid",
+        "background": "green_grass",
+        "special": "energy"
+      },
+      "story": "Your dog evolved! Changes: face_expression: curious \u2192 mischievous"
     }
   ]
 }
