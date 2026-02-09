@@ -1311,6 +1311,22 @@
         "special": "aura"
       },
       "story": "Your dog evolved! Changes: pattern: diamonds \u2192 stars"
+    },
+    {
+      "timestamp": "2026-02-09T07:42:30.235290",
+      "dna_hash": "7e914edc29c62074",
+      "generation": 1,
+      "mutation_count": 0,
+      "rarity_score": 35.0,
+      "traits": {
+        "body_color": "blue",
+        "face_expression": "wise",
+        "accessory": "monocle",
+        "pattern": "spots",
+        "background": "white",
+        "special": "godlike"
+      },
+      "story": "\ud83c\udf89 Your dog was born!"
     }
   ]
 }
