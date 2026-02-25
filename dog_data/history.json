@@ -1599,6 +1599,22 @@
         "special": "none"
       },
       "story": "Your dog evolved! Changes: face_expression: divine \u2192 cosmic"
+    },
+    {
+      "timestamp": "2026-02-25T02:25:20.577554",
+      "dna_hash": "1f750898e91b2ef9",
+      "generation": 2,
+      "mutation_count": 7,
+      "rarity_score": 31.666666666666664,
+      "traits": {
+        "body_color": "purple",
+        "face_expression": "cosmic",
+        "accessory": "bow",
+        "pattern": "solid",
+        "background": "green_grass",
+        "special": "none"
+      },
+      "story": "Your dog evolved! Changes: body_color: pink \u2192 purple"
     }
   ]
 }
