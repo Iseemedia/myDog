@@ -1647,6 +1647,22 @@
         "special": "none"
       },
       "story": "Your dog evolved! Changes: pattern: solid \u2192 gradient"
+    },
+    {
+      "timestamp": "2026-02-28T02:03:17.491025",
+      "dna_hash": "78c88b000a94dedb",
+      "generation": 2,
+      "mutation_count": 9,
+      "rarity_score": 31.666666666666664,
+      "traits": {
+        "body_color": "purple",
+        "face_expression": "cosmic",
+        "accessory": "bow",
+        "pattern": "gradient",
+        "background": "green_grass",
+        "special": "none"
+      },
+      "story": "Your dog rested today. No visible changes."
     }
   ]
 }
