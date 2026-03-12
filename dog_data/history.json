@@ -1839,6 +1839,22 @@
         "special": "none"
       },
       "story": "Your dog evolved! Changes: face_expression: cosmic \u2192 laughing"
+    },
+    {
+      "timestamp": "2026-03-12T02:23:11.672607",
+      "dna_hash": "b92703432e905b25",
+      "generation": 2,
+      "mutation_count": 16,
+      "rarity_score": 23.333333333333332,
+      "traits": {
+        "body_color": "purple",
+        "face_expression": "laughing",
+        "accessory": "simple_hat",
+        "pattern": "gradient",
+        "background": "green_grass",
+        "special": "none"
+      },
+      "story": "Your dog rested today. No visible changes."
     }
   ]
 }
