@@ -2063,6 +2063,22 @@
         "special": "sparkles"
       },
       "story": "Your dog evolved! Changes: face_expression: mischievous \u2192 happy"
+    },
+    {
+      "timestamp": "2026-03-26T02:34:17.363909",
+      "dna_hash": "bec00f47f1196425",
+      "generation": 2,
+      "mutation_count": 25,
+      "rarity_score": 11.666666666666666,
+      "traits": {
+        "body_color": "copper",
+        "face_expression": "happy",
+        "accessory": "simple_hat",
+        "pattern": "spots",
+        "background": "green_grass",
+        "special": "none"
+      },
+      "story": "Your dog evolved! Changes: special: sparkles \u2192 none"
     }
   ]
 }
