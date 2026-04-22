@@ -1,9 +1,9 @@
 {
-  "dna_hash": "8ab090824e83c80a",
+  "dna_hash": "06b658dc80168a39",
   "generation": 2,
   "age_days": 0,
-  "mutation_count": 40,
-  "rarity_score": 10.0,
+  "mutation_count": 42,
+  "rarity_score": 11.666666666666666,
   "parent_id": "e20e1bc0de360aab",
   "traits": {
     "body_color": {
@@ -11,15 +11,15 @@
       "rarity": "common"
     },
     "face_expression": {
-      "value": "curious",
-      "rarity": "common"
+      "value": "wise",
+      "rarity": "uncommon"
     },
     "accessory": {
       "value": "bow",
       "rarity": "common"
     },
     "pattern": {
-      "value": "gradient",
+      "value": "spots",
       "rarity": "common"
     },
     "background": {
@@ -31,5 +31,5 @@
       "rarity": "common"
     }
   },
-  "last_updated": "2026-04-21T02:47:05.936274"
+  "last_updated": "2026-04-22T02:45:15.423242"
 }
