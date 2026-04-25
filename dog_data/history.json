@@ -2543,6 +2543,22 @@
         "special": "none"
       },
       "story": "Your dog evolved! Changes: accessory: bow \u2192 sunglasses"
+    },
+    {
+      "timestamp": "2026-04-25T02:38:06.055158",
+      "dna_hash": "2bb0edaf80f8bd2b",
+      "generation": 2,
+      "mutation_count": 43,
+      "rarity_score": 13.333333333333334,
+      "traits": {
+        "body_color": "beige",
+        "face_expression": "wise",
+        "accessory": "sunglasses",
+        "pattern": "spots",
+        "background": "blue_sky",
+        "special": "none"
+      },
+      "story": "Your dog rested today. No visible changes."
     }
   ]
 }
