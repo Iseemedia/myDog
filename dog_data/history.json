@@ -2799,6 +2799,22 @@
         "special": "none"
       },
       "story": "Your dog evolved! Changes: body_color: brown \u2192 beige"
+    },
+    {
+      "timestamp": "2026-05-11T03:42:11.009103",
+      "dna_hash": "76f80f6661ca04ed",
+      "generation": 2,
+      "mutation_count": 51,
+      "rarity_score": 10.0,
+      "traits": {
+        "body_color": "beige",
+        "face_expression": "sleepy",
+        "accessory": "bandana",
+        "pattern": "solid",
+        "background": "blue_sky",
+        "special": "none"
+      },
+      "story": "Your dog evolved! Changes: pattern: spots \u2192 solid"
     }
   ]
 }
