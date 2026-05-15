@@ -2863,6 +2863,22 @@
         "special": "none"
       },
       "story": "Your dog evolved! Changes: accessory: bandana \u2192 bow"
+    },
+    {
+      "timestamp": "2026-05-15T03:39:35.687563",
+      "dna_hash": "b36078d727b16c22",
+      "generation": 2,
+      "mutation_count": 55,
+      "rarity_score": 11.666666666666666,
+      "traits": {
+        "body_color": "beige",
+        "face_expression": "happy",
+        "accessory": "bow",
+        "pattern": "gradient",
+        "background": "blue_sky",
+        "special": "glow"
+      },
+      "story": "Your dog evolved! Changes: special: none \u2192 glow"
     }
   ]
 }
