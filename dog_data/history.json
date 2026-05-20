@@ -2943,6 +2943,22 @@
         "special": "glow"
       },
       "story": "Your dog evolved! Changes: accessory: bow \u2192 bandana"
+    },
+    {
+      "timestamp": "2026-05-20T03:45:36.559959",
+      "dna_hash": "6d9ceed98532921e",
+      "generation": 2,
+      "mutation_count": 57,
+      "rarity_score": 11.666666666666666,
+      "traits": {
+        "body_color": "beige",
+        "face_expression": "happy",
+        "accessory": "bandana",
+        "pattern": "gradient",
+        "background": "white",
+        "special": "glow"
+      },
+      "story": "Your dog rested today. No visible changes."
     }
   ]
 }
