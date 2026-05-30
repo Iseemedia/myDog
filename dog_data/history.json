@@ -3103,6 +3103,22 @@
         "special": "glow"
       },
       "story": "Your dog evolved! Changes: body_color: beige \u2192 gray, pattern: gradient \u2192 stripes, background: city \u2192 green_grass"
+    },
+    {
+      "timestamp": "2026-05-30T03:36:04.246954",
+      "dna_hash": "39ced030addffd10",
+      "generation": 2,
+      "mutation_count": 62,
+      "rarity_score": 13.333333333333334,
+      "traits": {
+        "body_color": "golden",
+        "face_expression": "happy",
+        "accessory": "bandana",
+        "pattern": "stripes",
+        "background": "green_grass",
+        "special": "glow"
+      },
+      "story": "Your dog evolved! Changes: body_color: gray \u2192 golden"
     }
   ]
 }
