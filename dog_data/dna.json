@@ -1,8 +1,8 @@
 {
   "generation": 2,
   "parent_id": "e20e1bc0de360aab",
-  "dna_hash": "58adc28f5591ce3a",
-  "mutation_count": 67,
+  "dna_hash": "c625709f130a5d12",
+  "mutation_count": 68,
   "birth_timestamp": 689053,
   "traits": {
     "body_color": {
@@ -11,9 +11,9 @@
       "gene_sequence": "158495e5"
     },
     "face_expression": {
-      "value": "curious",
+      "value": "happy",
       "rarity": "common",
-      "gene_sequence": "7d0bf056"
+      "gene_sequence": "84ed1537"
     },
     "accessory": {
       "value": "simple_hat",
