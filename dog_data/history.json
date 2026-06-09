@@ -3263,6 +3263,22 @@
         "special": "glow"
       },
       "story": "Your dog evolved! Changes: face_expression: curious \u2192 happy"
+    },
+    {
+      "timestamp": "2026-06-09T03:40:54.949952",
+      "dna_hash": "aa0ae9925a9d35f0",
+      "generation": 2,
+      "mutation_count": 69,
+      "rarity_score": 15.0,
+      "traits": {
+        "body_color": "golden",
+        "face_expression": "wise",
+        "accessory": "simple_hat",
+        "pattern": "solid",
+        "background": "green_grass",
+        "special": "glow"
+      },
+      "story": "Your dog evolved! Changes: face_expression: happy \u2192 wise"
     }
   ]
 }
