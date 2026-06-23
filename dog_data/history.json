@@ -3487,6 +3487,22 @@
         "special": "none"
       },
       "story": "Your dog evolved! Changes: accessory: simple_hat \u2192 monocle"
+    },
+    {
+      "timestamp": "2026-06-23T03:43:02.758704",
+      "dna_hash": "19e151e0239e27ad",
+      "generation": 2,
+      "mutation_count": 80,
+      "rarity_score": 15.0,
+      "traits": {
+        "body_color": "tan",
+        "face_expression": "wise",
+        "accessory": "monocle",
+        "pattern": "hearts",
+        "background": "green_grass",
+        "special": "none"
+      },
+      "story": "Your dog rested today. No visible changes."
     }
   ]
 }
