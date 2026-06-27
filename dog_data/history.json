@@ -3551,6 +3551,22 @@
         "special": "none"
       },
       "story": "Your dog evolved! Changes: body_color: tan \u2192 golden"
+    },
+    {
+      "timestamp": "2026-06-27T03:37:05.823646",
+      "dna_hash": "5327f058f7144319",
+      "generation": 2,
+      "mutation_count": 83,
+      "rarity_score": 16.666666666666664,
+      "traits": {
+        "body_color": "golden",
+        "face_expression": "wise",
+        "accessory": "monocle",
+        "pattern": "hearts",
+        "background": "green_grass",
+        "special": "none"
+      },
+      "story": "Your dog rested today. No visible changes."
     }
   ]
 }
