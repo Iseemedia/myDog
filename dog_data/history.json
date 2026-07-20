@@ -3919,6 +3919,22 @@
         "special": "none"
       },
       "story": "Your dog rested today. No visible changes."
+    },
+    {
+      "timestamp": "2026-07-20T03:47:42.944568",
+      "dna_hash": "00ae1d3d7a6edadc",
+      "generation": 2,
+      "mutation_count": 93,
+      "rarity_score": 35.0,
+      "traits": {
+        "body_color": "purple",
+        "face_expression": "wise",
+        "accessory": "monocle",
+        "pattern": "cosmic_dust",
+        "background": "white",
+        "special": "none"
+      },
+      "story": "Your dog rested today. No visible changes."
     }
   ]
 }
