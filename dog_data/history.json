@@ -4047,6 +4047,22 @@
         "special": "none"
       },
       "story": "Your dog rested today. No visible changes."
+    },
+    {
+      "timestamp": "2026-07-28T02:38:28.045769",
+      "dna_hash": "b5701bab298a8184",
+      "generation": 2,
+      "mutation_count": 96,
+      "rarity_score": 35.0,
+      "traits": {
+        "body_color": "purple",
+        "face_expression": "excited",
+        "accessory": "crown",
+        "pattern": "cosmic_dust",
+        "background": "blue_sky",
+        "special": "none"
+      },
+      "story": "Your dog evolved! Changes: accessory: monocle \u2192 crown"
     }
   ]
 }
