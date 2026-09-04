@@ -4655,6 +4655,22 @@
         "special": "none"
       },
       "story": "Your dog evolved! Changes: face_expression: cool \u2192 winking"
+    },
+    {
+      "timestamp": "2026-09-04T03:24:47.657704",
+      "dna_hash": "67004dfb34f25fb7",
+      "generation": 2,
+      "mutation_count": 115,
+      "rarity_score": 45.0,
+      "traits": {
+        "body_color": "crystal",
+        "face_expression": "winking",
+        "accessory": "laser_eyes",
+        "pattern": "lightning",
+        "background": "blue_sky",
+        "special": "none"
+      },
+      "story": "Your dog rested today. No visible changes."
     }
   ]
 }
