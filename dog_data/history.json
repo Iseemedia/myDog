@@ -4943,6 +4943,22 @@
         "special": "none"
       },
       "story": "Your dog rested today. No visible changes."
+    },
+    {
+      "timestamp": "2026-09-22T03:49:15.962615",
+      "dna_hash": "8434eed9df59d71b",
+      "generation": 2,
+      "mutation_count": 123,
+      "rarity_score": 45.0,
+      "traits": {
+        "body_color": "rainbow",
+        "face_expression": "zen",
+        "accessory": "wizard_hat",
+        "pattern": "nebula",
+        "background": "white",
+        "special": "none"
+      },
+      "story": "Your dog evolved! Changes: accessory: halo \u2192 wizard_hat"
     }
   ]
 }
