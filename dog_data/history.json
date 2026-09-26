@@ -5007,6 +5007,22 @@
         "special": "none"
       },
       "story": "Your dog evolved! Changes: accessory: wizard_hat \u2192 laser_eyes"
+    },
+    {
+      "timestamp": "2026-09-26T04:00:51.162370",
+      "dna_hash": "2fc5bd688a1a01e8",
+      "generation": 2,
+      "mutation_count": 125,
+      "rarity_score": 45.0,
+      "traits": {
+        "body_color": "rainbow",
+        "face_expression": "zen",
+        "accessory": "laser_eyes",
+        "pattern": "nebula",
+        "background": "blue_sky",
+        "special": "none"
+      },
+      "story": "Your dog rested today. No visible changes."
     }
   ]
 }
