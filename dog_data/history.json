@@ -5039,6 +5039,22 @@
         "special": "none"
       },
       "story": "Your dog evolved! Changes: body_color: rainbow \u2192 crystal"
+    },
+    {
+      "timestamp": "2026-09-28T04:14:25.618191",
+      "dna_hash": "1864ffc2164743dc",
+      "generation": 2,
+      "mutation_count": 127,
+      "rarity_score": 45.0,
+      "traits": {
+        "body_color": "crystal",
+        "face_expression": "zen",
+        "accessory": "laser_eyes",
+        "pattern": "nebula",
+        "background": "blue_sky",
+        "special": "none"
+      },
+      "story": "Your dog rested today. No visible changes."
     }
   ]
 }
