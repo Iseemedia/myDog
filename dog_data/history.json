@@ -5295,6 +5295,22 @@
         "special": "none"
       },
       "story": "Your dog rested today. No visible changes."
+    },
+    {
+      "timestamp": "2026-10-14T03:57:21.363219",
+      "dna_hash": "8401f204d3c3e84e",
+      "generation": 2,
+      "mutation_count": 137,
+      "rarity_score": 35.0,
+      "traits": {
+        "body_color": "holographic",
+        "face_expression": "zen",
+        "accessory": "crown",
+        "pattern": "stars",
+        "background": "sunset",
+        "special": "none"
+      },
+      "story": "Your dog evolved! Changes: pattern: flames \u2192 stars"
     }
   ]
 }
