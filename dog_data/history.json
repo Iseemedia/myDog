@@ -5999,6 +5999,22 @@
         "special": "glow"
       },
       "story": "Your dog evolved! Changes: pattern: void \u2192 nebula"
+    },
+    {
+      "timestamp": "2026-11-27T07:13:56.548163",
+      "dna_hash": "0746aa4842f6a4db",
+      "generation": 2,
+      "mutation_count": 168,
+      "rarity_score": 26.666666666666668,
+      "traits": {
+        "body_color": "green",
+        "face_expression": "happy",
+        "accessory": "simple_hat",
+        "pattern": "nebula",
+        "background": "beach",
+        "special": "glow"
+      },
+      "story": "Your dog evolved! Changes: face_expression: mischievous \u2192 happy"
     }
   ]
 }
